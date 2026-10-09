@@ -1,0 +1,26 @@
+{
+  "name": "loja---api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALVAR0DEVV/Loja---api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALVAR0DEVV/Loja---api/issues"
+  },
+  "homepage": "https://github.com/ALVAR0DEVV/Loja---api#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "express": "^5.2.1",
+    "prisma": "^6.19.3"
+  }
+}
